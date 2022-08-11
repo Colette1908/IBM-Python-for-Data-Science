@@ -13,3 +13,5 @@ Lab 4:    PY0101EN-2-2-Lists
 Lab 5:    PY0101EN-2-4-Dictionaries
 
 Lab 6:    PY0101EN-2-3-Sets
+
+Lab 7:    PY0101EN-3-1-Conditions

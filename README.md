@@ -12,4 +12,4 @@ Lab 4:    PY0101EN-2-2-Lists
 
 Lab 5:    PY0101EN-2-4-Dictionaries
 
-Lab 6:    
+Lab 6:    PY0101EN-2-3-Sets
